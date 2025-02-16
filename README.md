@@ -51,4 +51,5 @@ JSON-ответ выводится в консоль для диагностик
 11. Проверка типов полей внутри statistics
 Проверяются типы полей contacts, likes и viewCount внутри объекта statistics. Все они должны быть Integer.
 
-### Код автотеста
+### Код автотеста 
+https://github.com/AigulAdiullova/AvitoQATest/blob/main/src/test/java/FieldTypeValidationTests.java
