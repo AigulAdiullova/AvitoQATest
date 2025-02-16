@@ -6,10 +6,14 @@
 3. Типы данных полей соответствуют ожидаемым:
    
 sellerId — целое число (Integer или Long).
-name — строка (String).
-price — целое число (Integer).
+
+name — строка (String)
+
+price — целое число (Integer)
+
 statistics — объект (Map)
-Поля внутри statistics (contacts, likes, viewCount) — целые числа (Integer).
+
+Поля внутри statistics (contacts, likes, viewCount) — целые числа (Integer)
 
 ### Пошаговое описание работы теста
 1. Настройка базового URI и пути
